@@ -1,0 +1,13 @@
+# Large data files
+*.fits
+MAST_*/
+TASTE/bias/
+TASTE/flat/
+TASTE/science/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+TASTE/.DS_Store
